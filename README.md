@@ -11,7 +11,7 @@ This project demonstrates how to make complex healthcare AI models **interpretab
 
 **Setup Instructions**
 ### 1. Clone the repository
-git clone https://github.com/Manishakittu/cst600-week06-interpretability-healthcare.git
+git clone https://github.com/Pmodugula89/Week-6-Assignment-Interpreting-Complex-Models-in-Healthcare.git
 cd cst600-week06-interpretability-healthcare
 create and activate virtual environment
 python -m venv .venv
